@@ -5,4 +5,4 @@
 🚀 Building tools that make software development smarter  
 📚 Currently learning Backend Engineering, System Design & Machine Learning
 
-**Interests:** AI/ML • LLMs • RAG • AI Agents • Backend • Developer Productivity
+**Interests:** AI/ML • LLMs • RAG • AI Agents • Backend • Python
