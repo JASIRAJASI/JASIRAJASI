@@ -1,11 +1,8 @@
-### Hi there I am Jasira T P👋
+# Hi, I'm Jasira 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about any technical topics
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Software Developer | Angular | React | Python | Django  
+🤖 Exploring AI Agents, LLMs, RAG & AI-powered SDLC automation  
+🚀 Building tools that make software development smarter  
+📚 Currently learning Backend Engineering, System Design & Machine Learning
+
+**Interests:** AI/ML • LLMs • RAG • AI Agents • Backend • Developer Productivity
